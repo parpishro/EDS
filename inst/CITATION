@@ -1,0 +1,10 @@
+citHeader("To cite EDS in publications use:")
+
+bibentry(
+  bibtype = "Manual",
+  title   = "EDS: {An} {R} package to ...",
+  author  = c(person("Pishrobat Parham")),
+  year    = "2024",
+  note    = "R package version 0.0.0.9000",
+  url     = "https://github.com/parpishro/EDS"
+)
